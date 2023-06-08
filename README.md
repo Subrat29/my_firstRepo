@@ -1,1 +1,1 @@
-Hello guys thid is my git file
+Hello, guys this is my first repo.
